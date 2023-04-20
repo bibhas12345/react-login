@@ -1,0 +1,13 @@
+.top-products-card card {
+    height: 7rem;
+    width: 6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  canvas {
+    max-height: 100%;
+    max-width: 100%;
+  }
